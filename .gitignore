@@ -1,5 +1,1 @@
-/000-dataset/
-*.png
-
-
-/__pycache__/
+./fonts/.
